@@ -2,6 +2,8 @@ Add first text in master
 
 Create new branch: update
 
-Create new branch: fix1
+Delete branch: fix1
 
-Create new branch: fix2
+Delete new branch: fix2
+
+Create new br: fix4
